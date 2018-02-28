@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/ibtool/AddExerciseViewController.nib">
+      <LogicalName>AddExerciseViewController.nib</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/ibtool/ScrollableGraphView.nib">
+      <LogicalName>ScrollableGraphView.nib</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/ibtool/WeightTableViewCell.nib">
+      <LogicalName>WeightTableViewCell.nib</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/ibtool-link/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib">
+      <LogicalName>LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</LogicalName>
+      <Optimize>false</Optimize>
+      <OriginalItemSpec>obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/ibtool-link/LaunchScreen.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/ibtool-link/LaunchScreen.storyboardc/Info.plist">
+      <LogicalName>LaunchScreen.storyboardc/Info.plist</LogicalName>
+      <Optimize>false</Optimize>
+      <OriginalItemSpec>obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/ibtool-link/LaunchScreen.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/ibtool-link/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib">
+      <LogicalName>LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib</LogicalName>
+      <Optimize>false</Optimize>
+      <OriginalItemSpec>obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/ibtool-link/LaunchScreen.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/ibtool-link/Main.storyboardc/40-view-41.nib">
+      <LogicalName>Main.storyboardc/40-view-41.nib</LogicalName>
+      <Optimize>false</Optimize>
+      <OriginalItemSpec>obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/ibtool-link/Main.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/ibtool-link/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib">
+      <LogicalName>Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib</LogicalName>
+      <Optimize>false</Optimize>
+      <OriginalItemSpec>obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/ibtool-link/Main.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/ibtool-link/Main.storyboardc/Info.plist">
+      <LogicalName>Main.storyboardc/Info.plist</LogicalName>
+      <Optimize>false</Optimize>
+      <OriginalItemSpec>obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/ibtool-link/Main.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/ibtool-link/Main.storyboardc/UIViewController-BYZ-38-t0r.nib">
+      <LogicalName>Main.storyboardc/UIViewController-BYZ-38-t0r.nib</LogicalName>
+      <Optimize>false</Optimize>
+      <OriginalItemSpec>obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/ibtool-link/Main.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/ibtool-link/Main.storyboardc/weightID.nib">
+      <LogicalName>Main.storyboardc/weightID.nib</LogicalName>
+      <Optimize>false</Optimize>
+      <OriginalItemSpec>obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/ibtool-link/Main.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,6 @@
+/Users/danielcardenapulido/Desktop/fitkeper/HEALT/HealthKitPoc/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/danielcardenapulido/Desktop/fitkeper/HEALT/HealthKitPoc/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/optimized/
+/Users/danielcardenapulido/Desktop/fitkeper/HEALT/HealthKitPoc/bin/iPhoneSimulator/Debug/HealthKitPoc.pdb
+/Users/danielcardenapulido/Desktop/fitkeper/HEALT/HealthKitPoc/bin/iPhoneSimulator/Debug/HealthKitPoc.exe
+/Users/danielcardenapulido/Desktop/fitkeper/HEALT/HealthKitPoc/obj/iPhoneSimulator/Debug/HealthKitPoc.exe
+/Users/danielcardenapulido/Desktop/fitkeper/HEALT/HealthKitPoc/obj/iPhoneSimulator/Debug/HealthKitPoc.pdb

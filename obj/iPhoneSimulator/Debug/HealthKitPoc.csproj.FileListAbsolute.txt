@@ -1,0 +1,9 @@
+/Users/danielcardenapulido/Desktop/fitkeper/HEALT/HealthKitPoc/bin/iPhoneSimulator/Debug/HealthKitPoc.exe
+/Users/danielcardenapulido/Desktop/fitkeper/HEALT/HealthKitPoc/bin/iPhoneSimulator/Debug/HealthKitPoc.pdb
+/Users/danielcardenapulido/Desktop/fitkeper/HEALT/HealthKitPoc/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/ibtool/_BundleResourceWithLogicalName.items
+/Users/danielcardenapulido/Desktop/fitkeper/HEALT/HealthKitPoc/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/actool/_PartialAppManifest.items
+/Users/danielcardenapulido/Desktop/fitkeper/HEALT/HealthKitPoc/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/actool/_BundleResourceWithLogicalName.items
+/Users/danielcardenapulido/Desktop/fitkeper/HEALT/HealthKitPoc/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/optimized/
+/Users/danielcardenapulido/Desktop/fitkeper/HEALT/HealthKitPoc/obj/iPhoneSimulator/Debug/HealthKitPoc.csproj.CoreCompileInputs.cache
+/Users/danielcardenapulido/Desktop/fitkeper/HEALT/HealthKitPoc/obj/iPhoneSimulator/Debug/HealthKitPoc.exe
+/Users/danielcardenapulido/Desktop/fitkeper/HEALT/HealthKitPoc/obj/iPhoneSimulator/Debug/HealthKitPoc.pdb

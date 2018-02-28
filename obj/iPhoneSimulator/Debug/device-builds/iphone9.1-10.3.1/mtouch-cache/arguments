@@ -1,0 +1,38 @@
+# Version: 10.10.0.36 (d15-2: d2270eec)
+# [first argument, ignore] # --cache
+/Library/Frameworks/Xamarin.iOS.framework/Versions/10.10.0.36/lib/mtouch/mtouch.exe \
+	/Users/danielcardenapulido/Desktop/fitkeper/HEALT/HealthKitPoc/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/mtouch-cache \
+	--sim \
+	/Users/danielcardenapulido/Desktop/fitkeper/HEALT/HealthKitPoc/bin/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/HealthKitPoc.app \
+	--executable \
+	HealthKitPoc \
+	--fastdev \
+	--debug \
+	--profiling \
+	--nolink \
+	--sdkroot \
+	/Applications/Xcode.app/Contents/Developer \
+	--sdk \
+	10.3 \
+	--targetver \
+	10.3 \
+	--http-message-handler=HttpClientHandler \
+	--abi=x86_64 \
+	--symbollist \
+	/Users/danielcardenapulido/Desktop/fitkeper/HEALT/HealthKitPoc/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/mtouch-symbols.list \
+	--dsym=no \
+	--gcc_flags \
+	"-Xlinker -sectcreate -Xlinker __TEXT -Xlinker __entitlements -Xlinker /Users/danielcardenapulido/Desktop/fitkeper/HEALT/HealthKitPoc/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/Entitlements.xcent" \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Xml.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Core.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Xamarin.iOS.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll \
+	--target-framework \
+	"Xamarin.iOS,v1.0" \
+	/Users/danielcardenapulido/Desktop/fitkeper/HEALT/HealthKitPoc/bin/iPhoneSimulator/Debug/HealthKitPoc.exe \
